@@ -3,4 +3,4 @@
 *.pdf
 
 # Ignore autosave board files
-.b#
+*.b#
