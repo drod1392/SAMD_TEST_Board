@@ -1,0 +1,6 @@
+# Ignore autosave schematic files
+#.s#
+*.pdf
+
+# Ignore autosave board files
+.b#
